@@ -1,5 +1,7 @@
-# Programa-tipo-Aplicacion
-Este programa sirve para crear un Usuario y contraseña poder entrar con este a un segundo meno y una  vez ya en este poder editar tu nombre , usuario y contraseña, aparte de esto esta la posibilidad de que agregues tu platillo y película favorita   
+
+
+
+
 
 
 using System;
